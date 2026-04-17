@@ -1,6 +1,6 @@
 cask "takebreak" do
-  version "1.0.0"
-  sha256 "fb18ccec1862dd533c5e0abd52a7453f319dff6df83cdd06115ab4d2118f4a1c"
+  version "1.1.0"
+  sha256 "622017208f6e9e7db73784b749e3a425102eeae8a07f5a8aa51bb514d134569a"
 
   url "https://github.com/peterhartree/takebreak/releases/download/v#{version}/TakeBreak-#{version}.zip"
   name "TakeBreak"
