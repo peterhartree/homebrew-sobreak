@@ -1,6 +1,6 @@
 cask "sobreak" do
-  version "1.3.0"
-  sha256 "bbbbe1932a329dd459885b20c7d3a29c9151bec2f340c261498800b1c3d37507"
+  version "1.4.0"
+  sha256 "cfa40f70ea4553cafa47056deaaabe4928ebafc0f074f0d4ba20ff587068e0e8"
 
   url "https://github.com/peterhartree/sobreak/releases/download/v#{version}/SoBreak-#{version}.zip"
   name "So Break"
